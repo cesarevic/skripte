@@ -1,0 +1,24 @@
+
+
+	Razraditi ovaj deo za loggerom i iventima, sa logerom i dal mi to u opste i treba (posto ovako i nece da radi)
+	Znaci da li je bolje u samoj alikaciji koristiti lepo get logger, pa kazi sta oces i cao...
+	Ako uvde u konfiigu ubijes writer, pricaces u prazno i to je to...
+
+
+
+ 	Razraditi ovaj deo sa logovanje, to moram da smislim kako ce da radi to sranje...
+
+ 	Znaci, nekako mponenta koja ce da koriti loger, moram da vidim kako ce da ga koristi... a da ostane logika preko
+ 	observera, to moramd a razradim...
+
+
+
+
+
+
+
+
+
+
+
+
